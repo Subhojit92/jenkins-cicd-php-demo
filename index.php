@@ -1,8 +1,12 @@
+<!DOCTYPE html>
 <html>
- <head>
-  <title>Index</title>
- </head>
- <body>
- <?php echo '<p>Hello world fro PHP ! eclarative pipeline!!</p>'; ?> 
- </body>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
 </html>
